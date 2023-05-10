@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-systemctl enable sddm
-systemctl set-default graphical.target
-systemctl enable NetworkManager
-systemctl enable bluetooth
+echo "Set a password for root for the live environment:"
+passwd
+chmod +x /dmtos-install.sh
+/dmtos-install.sh
