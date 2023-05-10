@@ -1,0 +1,9 @@
+NAME="DMTOS"
+VERSION="23.05"
+ID=dmtos
+ID_LIKE="arch"
+PRETTY_NAME="DMT 23.05"
+VERSION_ID="23.05"
+HOME_URL="https://github.com/datcuandrei/DMTOS"
+SUPPORT_URL="https://github.com/datcuandrei/DMTOS/issues"
+BUG_REPORT_URL="https://github.com/datcuandrei/DMTOS/issues"
