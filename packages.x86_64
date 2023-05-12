@@ -132,6 +132,12 @@ xf86-video-amdgpu
 xf86-video-nouveau
 xorg
 gdm
+gnome-backgrounds
+gnome-control-center
+gnome-screenshot
+feh
+gimp
+mpv
 thunar
 gedit
 python3

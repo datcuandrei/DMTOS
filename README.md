@@ -10,3 +10,5 @@ mkarchiso -v -w . -o ./out/ releng/
 
 # Current status : INCOMPLETE! USE AT YOUR OWN RISK!
 
+Credits go to Datcu Andrei <https://datcuandrei.github.io/>, Arch Linux and Calamares team.
+
