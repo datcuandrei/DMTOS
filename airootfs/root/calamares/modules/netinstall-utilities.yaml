@@ -1,0 +1,29 @@
+- name: "Utilities"
+  description: "Utility software"
+  critical: false
+  hidden: false
+  selected: false
+  expanded: true
+  packages:
+    - archey3
+    - bashtop
+    - bleachbit
+    - catfish
+    - flatpak
+    - glances
+    - grsync
+    - kbackup
+    - nvtop
+    - open-vm-tools
+    - parcellite
+    - powertop
+    - putty
+    - redshift
+    - screenfetch
+    - sigil
+    - solaar
+    - synapse
+    - sysprof
+    - vnstat
+    - wireshark-qt
+    - workrave

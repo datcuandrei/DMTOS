@@ -1,0 +1,19 @@
+- name: "Theming"
+  description: "Themes, icons and cursors"
+  critical: false
+  hidden: false
+  selected: false
+  expanded: true
+  packages:
+    - adapta-gtk-theme
+    - arc-icon-theme
+    - breeze
+    - capitaine-cursors
+    - materia-gtk-theme
+    - materia-kde
+    - papirus-icon-theme
+    - xcursor-comix
+    - xcursor-flatbed
+    - xcursor-neutral
+    - xcursor-premium
+    - xcursor-simpleandsoft

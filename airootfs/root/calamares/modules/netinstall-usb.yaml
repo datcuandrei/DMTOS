@@ -1,0 +1,10 @@
+- name: "Usb/Disk Utilities"
+  description: "Utility software"
+  critical: false
+  hidden: false
+  selected: false
+  expanded: true
+  packages:
+    - baobab
+    - brasero
+    - xfburn

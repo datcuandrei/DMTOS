@@ -1,0 +1,14 @@
+- name: "Communication"
+  description: "Communication software"
+  critical: false
+  hidden: false
+  selected: false
+  expanded: true
+  packages:
+    - hexchat    
+    - krdc
+    - pidgin    
+    - qtox
+    - remmina
+    - tigervnc   
+    - wire-desktop

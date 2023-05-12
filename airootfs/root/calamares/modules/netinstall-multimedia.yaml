@@ -1,0 +1,37 @@
+- name: "Multimedia"
+  description: "Audio and video software"
+  critical: false
+  hidden: false
+  selected: false
+  expanded: true
+  packages:
+    - ardour
+    - audacious
+    - audacious-plugins
+    - audacity
+    - celluloid
+    - clementine
+    - elisa
+    - guvcview
+    - handbrake
+    - juk
+    - kdenlive
+    - kodi-x11
+    - kodi
+    - kodi-addons
+    - kwave
+    - lollypop
+    - lxmusic
+    - lmms
+    - obs-studio
+    - openshot
+    - mkvtoolnix-gui
+    - mpc
+    - mpd
+    - mpv
+    - ncmpcpp
+    - peek
+    - pitivi
+    - rhythmbox
+    - soundconverter
+    - smplayer

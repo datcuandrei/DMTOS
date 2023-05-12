@@ -1,0 +1,24 @@
+- name: "Internet"
+  description: "Internet software"
+  critical: false
+  hidden: false
+  selected: false
+  expanded: true
+  packages:
+    - deluge
+    - evolution
+    - falkon
+    - filezilla
+    - firefox-adblock-plus
+    - firefox-i18n-$LOCALE
+    - firefox-ublock-origin
+    - geary
+    - ktorrent
+    - midori
+    - min
+    - netsurf
+    - nextcloud-client
+    - opera
+    - qutebrowser
+    - thunderbird
+    - transmission-gtk
