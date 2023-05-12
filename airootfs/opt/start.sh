@@ -11,7 +11,7 @@ pacman-key --init
 pacman-key --populate
 
 echo "Configuring Calamares..."
-cp -avr /opt/calamares /usr/share/calamares
+cp -avr /opt/calamares /usr/share
 
 echo ""
 echo "Set a password for the live user environment"
